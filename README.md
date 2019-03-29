@@ -1,5 +1,5 @@
-# APP NOTES.js(node)
-my experience in node.js
+# APP NOTE.js(node)
+An application for adding removing listing and reading note on command line
 
 
 using 2 node.js files
