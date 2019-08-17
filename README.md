@@ -1,4 +1,4 @@
-# APP NOTE.js(node)
+# APP CREATENOTE.js(node)
 An application for adding removing listing and reading note on command line
 
 
